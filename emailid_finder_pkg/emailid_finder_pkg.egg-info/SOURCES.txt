@@ -1,0 +1,7 @@
+README.md
+setup.py
+emailid_finder_pkg/__init__.py
+emailid_finder_pkg.egg-info/PKG-INFO
+emailid_finder_pkg.egg-info/SOURCES.txt
+emailid_finder_pkg.egg-info/dependency_links.txt
+emailid_finder_pkg.egg-info/top_level.txt

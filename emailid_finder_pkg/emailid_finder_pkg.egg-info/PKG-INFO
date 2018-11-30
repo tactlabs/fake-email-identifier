@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: emailid-finder-pkg
+Version: 0.0.1
+Summary: This will find the email-id is 'fake' or 'not'
+Home-page: https://github.com/uthum/emailid_finder
+Author: team
+Author-email: 
+License: UNKNOWN
+Description: # emailid_finder Package
+        
+        This will find email-id is fake or not
+        [Github-flavored Markdown](https://github.com/uthum/emailid_finder/blob/master/README.md)
+        to write your content.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
