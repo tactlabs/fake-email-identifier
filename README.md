@@ -2,23 +2,16 @@
   This will find email-id is fake or not
 
 ##Installation
-
-Run the following to install:
-
-'''python
-
-pip install fake-email-identifier
-'''
+	Run the following to install:
+		pip install fake-email-identifier
 
 ##Usage
+	import emailid_finder as ef
 
-'''python
-import emailid_finder as ef
+	#Generate "False"
 
-#Generate "True"
+	ef.check('namubol@veanlo.com') //This id form https://temp-mail.org/en/
 
-ef.check('namubol@veanlo.com') //This id form https://temp-mail.org/en/
+	#Generate "False"
 
-#Generate "False"
-
-ef.check('<some real email>')
+	ef.check('<some real email>')
