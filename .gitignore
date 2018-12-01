@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+emaild_finder_pkg
+check_by_domain.py
+demo phase1.mp4
+emailid_finder.py
+fake_email_identifier_phase1.py
+page1.html
+page2.html
+page3.html
