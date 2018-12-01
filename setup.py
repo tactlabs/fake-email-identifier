@@ -5,7 +5,7 @@ with open("README.md","r")as fh:
 
 setup(
     name="fake-email-identifier",
-    version="0.0.3",
+    version="0.0.4",
     description="This will find the email-id is 'True' or 'Flase'",
     long_description=long_description,
     url="https://github.com/teamtact/fake-email-identifier",

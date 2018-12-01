@@ -12,6 +12,6 @@
 
 	ef.check('namubol@veanlo.com') //This id form https://temp-mail.org/en/
 
-	#Generate "False"
+	#Generate "True"
 
 	ef.check('<some real email>')
