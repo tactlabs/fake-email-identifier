@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/fake-email-identifier.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/fake-email-identifier)
-
 # emailid_finder Package
   This will find email-id is fake or not
 
